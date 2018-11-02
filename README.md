@@ -1,6 +1,10 @@
 # Intercom Webhook
 Implementation of a front-end use case for Intercom with ReactJS.
 
+### Contributors
+Shreyas HM ([hmshreyas7][1])  
+Methusael Murmu ([methusael13][2])
+
 ### Building
 Download `nodejs` and `npm` for your platform:
 
@@ -26,3 +30,6 @@ npm start
 ```
 
 Open your favourite browser and browse to `http://localhost:3000`
+
+[1]: https://github.com/hmshreyas7
+[2]: https://github.com/methusael13
